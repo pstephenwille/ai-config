@@ -1,0 +1,11 @@
+{
+  "env": {
+    "CLAUDE_CODE_DISABLE_ALTERNATE_SCREEN": "1",
+    "CLAUDE_CODE_DISABLE_MOUSE": "1"
+  },
+  "tui": "default",
+  "theme": "auto",
+  "enabledPlugins": {
+    "mattpocock-skills@claude-plugins-official": true
+  }
+}
